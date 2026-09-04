@@ -109,6 +109,7 @@ export const content = {
       tag: "Forged va Cast Mukammalligi",
       title: "Eng Yuqori Ko'rsatkichli Disklar, E'tiborni Tortuvchi Uslub",
       sizes: "5 Xil O'lcham Mavjud",
+      viewDetails: "Tafsilotlar",
       btn: "O'z Disklaringizni Tanlang"
     },
     testimonials: {
@@ -265,6 +266,7 @@ export const content = {
       tag: "Кованое и Литое Совершенство",
       title: "Высокоэффективные Диски, Притягивающие Взгляды",
       sizes: "Доступно в 5 размерах",
+      viewDetails: "Подробнее",
       btn: "Выбрать Идеальные Диски"
     },
     testimonials: {

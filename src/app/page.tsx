@@ -720,7 +720,14 @@ export default function Home() {
                 className="object-contain p-2 group-hover:scale-105 transition-transform duration-500 ease-out" 
               />
             </div>
-            <p className="text-3xl font-black text-white mt-auto">$374.99</p>
+            <div className="mt-auto w-full pt-4 border-t border-white/10 flex items-center justify-between">
+              <span className="text-xs font-semibold uppercase tracking-wider text-gray-400 group-hover:text-white transition-colors">
+                {t.wheels.viewDetails}
+              </span>
+              <div className="w-8 h-8 rounded-full bg-white/5 border border-white/10 flex items-center justify-center text-gray-300 group-hover:bg-[#4F46E5] group-hover:border-[#4F46E5] group-hover:text-white transition-all">
+                <ArrowUpRight size={14} />
+              </div>
+            </div>
           </motion.div>
 
           {/* Wheel 2 */}
@@ -748,7 +755,14 @@ export default function Home() {
                 className="object-contain p-2 group-hover:scale-105 transition-transform duration-500 ease-out" 
               />
             </div>
-            <p className="text-3xl font-black text-white mt-auto">$339.99</p>
+            <div className="mt-auto w-full pt-4 border-t border-white/10 flex items-center justify-between">
+              <span className="text-xs font-semibold uppercase tracking-wider text-gray-400 group-hover:text-white transition-colors">
+                {t.wheels.viewDetails}
+              </span>
+              <div className="w-8 h-8 rounded-full bg-white/5 border border-white/10 flex items-center justify-center text-gray-300 group-hover:bg-[#4F46E5] group-hover:border-[#4F46E5] group-hover:text-white transition-all">
+                <ArrowUpRight size={14} />
+              </div>
+            </div>
           </motion.div>
 
           {/* Wheel 3 */}
@@ -776,7 +790,14 @@ export default function Home() {
                 className="object-contain p-2 group-hover:scale-105 transition-transform duration-500 ease-out" 
               />
             </div>
-            <p className="text-3xl font-black text-white mt-auto">$369.99</p>
+            <div className="mt-auto w-full pt-4 border-t border-white/10 flex items-center justify-between">
+              <span className="text-xs font-semibold uppercase tracking-wider text-gray-400 group-hover:text-white transition-colors">
+                {t.wheels.viewDetails}
+              </span>
+              <div className="w-8 h-8 rounded-full bg-white/5 border border-white/10 flex items-center justify-center text-gray-300 group-hover:bg-[#4F46E5] group-hover:border-[#4F46E5] group-hover:text-white transition-all">
+                <ArrowUpRight size={14} />
+              </div>
+            </div>
           </motion.div>
         </div>
         
