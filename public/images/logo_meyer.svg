@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 50" fill="none">
+  <!-- Meyer Logo with circular gear arrow -->
+  <g stroke="#9CA3AF" stroke-width="2.5" fill="none">
+    <path d="M12 25 A 12 12 0 1 1 24 37" />
+    <path d="M24 33 L24 39 L18 39" fill="#9CA3AF" />
+  </g>
+  <text x="36" y="33" font-family="'Arial Black', sans-serif" font-weight="900" font-size="22" fill="#FFFFFF" letter-spacing="-0.5">meyer</text>
+  <text x="108" y="24" font-family="'Arial', sans-serif" font-weight="bold" font-size="8" fill="#9CA3AF">®</text>
+</svg>

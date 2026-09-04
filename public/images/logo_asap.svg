@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 110 50" fill="none">
+  <!-- ASAP circular arrow logo -->
+  <circle cx="22" cy="25" r="14" stroke="#9CA3AF" stroke-width="2" stroke-dasharray="60 10" />
+  <path d="M12 25 L16 29 L16 21 Z" fill="#9CA3AF" />
+  <text x="44" y="32" font-family="'Arial Black', sans-serif" font-weight="900" font-size="19" fill="#FFFFFF" letter-spacing="1.5">ASAP</text>
+</svg>

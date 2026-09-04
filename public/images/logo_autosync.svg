@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170 50" fill="none">
+  <!-- AutoSync Logo -->
+  <g stroke="#FFFFFF" stroke-width="2.5" fill="none">
+    <path d="M12 18 C14 12 22 10 28 14 L24 16 M28 14 L28 20" />
+    <path d="M28 32 C26 38 18 40 12 36 L16 34 M12 36 L12 30" />
+  </g>
+  <text x="36" y="32" font-family="'Inter', sans-serif" font-weight="800" font-size="20" fill="#FFFFFF">Auto</text>
+  <text x="82" y="32" font-family="'Inter', sans-serif" font-weight="300" font-size="20" fill="#818cf8">Sync</text>
+  <text x="38" y="42" font-family="'Inter', sans-serif" font-weight="600" font-size="6" fill="#9CA3AF" letter-spacing="1">AN EXPERIAN COMPANY</text>
+</svg>

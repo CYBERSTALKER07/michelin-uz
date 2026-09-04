@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 130" fill="none">
+  <!-- Outer Gold Shield -->
+  <path d="M50 8 L85 20 C85 75 75 105 50 125 C25 105 15 75 15 20 Z" fill="#D4AF37" stroke="#000000" stroke-width="2" />
+  
+  <!-- Top Banner -->
+  <path d="M22 22 L78 22 L76 34 L24 34 Z" fill="#D4AF37" stroke="#000000" stroke-width="1" />
+  <text x="50" y="31" fill="#000000" font-family="'Arial Black', sans-serif" font-weight="900" font-size="7" text-anchor="middle" letter-spacing="1.5">PORSCHE</text>
+  
+  <!-- Quarters Grid -->
+  <!-- Top-Left & Bottom-Right: Antlers (Gold field with black antlers) -->
+  <path d="M24 37 H48 V65 H20 C20 55 21 45 24 37 Z" fill="#D4AF37" stroke="#000000" stroke-width="1" />
+  <!-- Antlers detail -->
+  <path d="M25 43 H43 M25 50 H43 M25 57 H43" stroke="#000000" stroke-width="2" stroke-linecap="round" />
+  
+  <!-- Top-Right & Bottom-Left: Black & Red stripes -->
+  <path d="M52 37 H76 C79 45 80 55 80 65 H52 V37 Z" fill="#E11D48" stroke="#000000" stroke-width="1" />
+  <rect x="58" y="37" width="5" height="28" fill="#000000" />
+  <rect x="69" y="37" width="5" height="28" fill="#000000" />
+
+  <path d="M20 67 H48 V98 C38 90 28 80 20 67 Z" fill="#E11D48" stroke="#000000" stroke-width="1" />
+  <rect x="26" y="67" width="5" height="28" fill="#000000" />
+  <rect x="37" y="67" width="5" height="28" fill="#000000" />
+
+  <path d="M52 67 H80 C72 80 62 90 52 98 V67 Z" fill="#D4AF37" stroke="#000000" stroke-width="1" />
+  <path d="M57 73 H75 M57 80 H73 M57 87 H68" stroke="#000000" stroke-width="2" stroke-linecap="round" />
+
+  <!-- Center Stuttgart Inset Shield with Black Horse -->
+  <path d="M50 50 L63 56 C63 76 58 84 50 90 C42 84 37 76 37 56 Z" fill="#FFE000" stroke="#000000" stroke-width="1.5" />
+  <text x="50" y="58" fill="#000000" font-family="'Arial', sans-serif" font-weight="bold" font-size="3" text-anchor="middle">STUTTGART</text>
+  <!-- Prancing Horse silhouette in center -->
+  <path d="M50 63 C48 61 46 63 45 66 C45 69 47 72 47 75 C45 78 43 82 46 84 C48 83 49 81 50 78 C52 82 54 83 55 81 C54 77 53 74 52 70 C53 66 53 64 50 63 Z" fill="#000000" />
+</svg>

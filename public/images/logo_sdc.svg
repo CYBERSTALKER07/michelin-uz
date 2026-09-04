@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 50" fill="none">
+  <!-- SDC SEMA Data Co-op Logo -->
+  <g fill="#FFFFFF">
+    <path d="M12 25 L22 10 L32 25 L22 40 Z" fill="#4F46E5" opacity="0.8"/>
+    <circle cx="22" cy="25" r="4" fill="#FFFFFF"/>
+    <text x="40" y="32" font-family="'Arial Black', sans-serif" font-weight="900" font-size="22" fill="#FFFFFF" letter-spacing="1">SDC</text>
+  </g>
+  <text x="42" y="42" font-family="'Arial', sans-serif" font-weight="bold" font-size="6.5" fill="#9CA3AF" letter-spacing="0.5">SEMA DATA CO-OP</text>
+</svg>

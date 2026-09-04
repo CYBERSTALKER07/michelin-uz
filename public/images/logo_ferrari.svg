@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 130" fill="none">
+  <!-- Yellow Shield Background -->
+  <path d="M50 5 L88 18 C88 70 78 98 50 125 C22 98 12 70 12 18 Z" fill="#FFE000" stroke="#0A0A0A" stroke-width="2.5" />
+  
+  <!-- Italian Tricolore Top Stripes -->
+  <path d="M22 17 L38 20 L38 26 L20 23 Z" fill="#009246" />
+  <path d="M42 20.5 L58 22 L58 28 L42 27 Z" fill="#FFFFFF" />
+  <path d="M62 22.5 L78 24 L80 18 L62 17 Z" fill="#CE2B37" />
+  
+  <!-- Prancing Horse Silhouette in Black -->
+  <g fill="#0A0A0A">
+    <!-- Horse Head & Mane -->
+    <path d="M52 34 C50 31 46 30 43 32 C41 33 42 35 44 36 C43 38 40 37 38 39 C39 41 42 42 45 42 C47 43 46 47 44 49 C42 51 38 48 35 50 C37 52 40 54 44 54 C46 54 49 53 50 50 Z" />
+    <!-- Horse Body -->
+    <path d="M48 50 C45 56 46 64 48 70 C47 74 44 79 46 84 C48 88 52 86 54 83 C57 80 56 74 54 70 C53 66 54 62 56 59 C58 55 58 48 55 45 C52 42 50 46 48 50 Z" />
+    <!-- Front Raised Legs -->
+    <path d="M48 54 C44 52 38 46 35 43 C33 42 32 44 33 46 C35 49 40 55 44 60 Z" />
+    <path d="M52 57 C48 56 42 53 38 51 C36 50 35 52 36 54 C39 57 43 62 47 65 Z" />
+    <!-- Rear Legs -->
+    <path d="M47 84 L41 98 L45 99 L50 87 Z" />
+    <path d="M53 82 L58 97 L62 96 L56 82 Z" />
+    <!-- Tail -->
+    <path d="M56 61 C60 62 65 67 66 73 C67 79 64 84 66 89 C65 89 62 82 62 76 C62 70 58 66 56 61 Z" />
+  </g>
+  
+  <!-- SF Letters at Bottom -->
+  <text x="35" y="112" fill="#0A0A0A" font-family="'Times New Roman', serif" font-weight="bold" font-size="14">S</text>
+  <text x="56" y="112" fill="#0A0A0A" font-family="'Times New Roman', serif" font-weight="bold" font-size="14">F</text>
+</svg>
